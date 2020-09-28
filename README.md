@@ -10,6 +10,9 @@ pip install selenium
 ```
 https://core.telegram.org/widgets/login
 ```
+
+https://oauth.telegram.org/auth?bot_id= `111111111` &origin=http%3A%2F%2F`simple.website`&embed=1&request_access=write
+
 ### Video demonstration
 https://youtu.be/rsvN2ZLU6Eo
 

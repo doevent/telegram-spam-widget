@@ -1,10 +1,14 @@
-# Telegram spam Login Widget
+# Telegram Spam Login Widget
 
 ### Installing
 
- Python: 
+Python: 
 ```
 pip install selenium
+```
+Сreate telegram widget
+```
+https://core.telegram.org/widgets/login
 ```
 ### Video demonstration
 https://youtu.be/rsvN2ZLU6Eo
